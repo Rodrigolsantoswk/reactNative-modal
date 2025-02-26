@@ -23,6 +23,7 @@
     "expo-constants": "~17.0.7",
     "expo-font": "~13.0.4",
     "expo-haptics": "~14.0.1",
+    "expo-image": "~2.0.6",
     "expo-linking": "~7.0.5",
     "expo-router": "~4.0.17",
     "expo-splash-screen": "~0.29.22",
@@ -32,6 +33,7 @@
     "expo-web-browser": "~14.0.2",
     "react": "18.3.1",
     "react-dom": "18.3.1",
+    "react-hook-form": "^7.54.2",
     "react-native": "0.76.7",
     "react-native-gesture-handler": "~2.20.2",
     "react-native-reanimated": "~3.16.1",
@@ -50,5 +52,6 @@
     "react-test-renderer": "18.3.1",
     "typescript": "^5.3.3"
   },
-  "private": true
+  "private": true,
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
 }
